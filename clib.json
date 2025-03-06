@@ -1,0 +1,8 @@
+{
+  "name": "pagesize",
+  "version": "0.1.0",
+  "repo": "c-sdk/pagesize",
+  "description": "Returns the pagesize of the current platform.",
+  "license": "unlicense",
+  "src": ["./pagesize.h", "./pagesize.c"]
+}
